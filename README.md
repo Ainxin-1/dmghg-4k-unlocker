@@ -10,10 +10,9 @@ Removes the 4K quality VIP restriction in **dmghg** (动漫共和国) — enjoy 
 
 ### 方式一：一键解锁（推荐）
 
-1. **下载** `patch-4k.bat`
-2. 将 `patch-4k.bat` **放到 dmghg 安装目录**（和 `dmghg.exe` 在同一文件夹）
-3. **右键 → 以管理员身份运行**
-4. 显示 `✓ 完成` 即表示成功，重启 dmghg 即可
+1. **下载** `dmghg-4k-unlocker.bat`
+2. 将 `dmghg-4k-unlocker.bat` **放到 dmghg 安装目录**（和 `dmghg.exe` 在同一文件夹）
+3. **启动"动漫共和国"自动加载此脚本**
 
 ### 方式二：保留修改（更新后自动恢复）
 
